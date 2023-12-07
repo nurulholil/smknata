@@ -24,6 +24,7 @@ body {
 
 .swiper {
   width: 100%;
+  /* margin-bottom: -15rem; */
 }
 
 .swiper-wrapper {
@@ -31,7 +32,7 @@ body {
   height: 35em;
   display: flex;
   align-items: center;
-  margin-bottom: -15rem;
+
 }
 
 .card {
@@ -106,7 +107,7 @@ h1 {
 }
 
 .footer {
-  margin-top: 20rem;
+  margin-top: 10px;
 }
 
 .footer p {
