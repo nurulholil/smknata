@@ -1,0 +1,9 @@
+body {
+  font-family: var(--font);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--bg-color);
+  background-image: url(img/bg.webp);
+}
